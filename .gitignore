@@ -1,0 +1,12 @@
+#JETBRAIN
+.idea/
+
+#CSHARP
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+#RUST
+\target
