@@ -20,7 +20,7 @@ public class Distance
             dist += Math.Abs(list1[index] - list2[index]);
         }
 
-        Console.WriteLine(dist);
+        Console.WriteLine($"Part1 Distance: {dist}");
     }
 
     public void Part2(List<int> list1, List<int> list2)
@@ -44,7 +44,7 @@ public class Distance
             }
         }
 
-        Console.WriteLine(dist);
+        Console.WriteLine($"Part2 Distance: {dist}");
 
     }
 

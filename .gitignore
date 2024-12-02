@@ -10,3 +10,6 @@ riderModule.iml
 
 #RUST
 \target
+
+#C
+cmake*

@@ -22,4 +22,5 @@ fn main() {
         }
         Err(e) => println!("Loading Error: {:?}", e),
     }
+    println!("done");
 }
